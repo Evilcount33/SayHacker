@@ -1,0 +1,1 @@
+echo "SALAM H∆¢KER" | lolcat -a -d 10echo "nama agan=" | lolcatread NAMAecho "SELAMAT DATANG" $NAMA | lolcatecho "no agan=" | lolcatread NOMERecho "OK NO AGAN=" $NOMER
